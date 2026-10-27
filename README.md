@@ -12,8 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Explain each function, what goes in, and what comes back. Then show choice 1, choice 2, and quit.
 
-**Your demo:** _add your link here_
-
+**Your demo:** https://youtu.be/QYNi1OFCBPg 
 
 ## What to build
 
